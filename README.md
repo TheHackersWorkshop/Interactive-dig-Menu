@@ -11,7 +11,8 @@ User-Friendly Menu: Allows easy selection of DNS queries without needing to reme
 Usage:
 Run the script in a terminal:
 
-chmod +x dns_query.sh
-./dns_query.sh
+chmod +x dig.sh
+
+.dig.sh
 
 This script is a helpful tool for quickly diagnosing DNS-related issues and verifying record propagation.
